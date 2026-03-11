@@ -1,1 +1,1 @@
-kullanmak için zip olarak indirin ve app.py dosyasını çalıştırın
+kullanmak için zip olarak indirin ve gui.py dosyasını çalıştırın
