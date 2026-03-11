@@ -1,5 +1,6 @@
 # EMKO-ETAPSound
 **Program şu anda geliştirilme aşamasındadır, sadece zip metodu kullanıma uygundur.**
+<br>
 EMKO-ETAPSound, Emkotech marka tahtalara indirilen Pardus 23 Etap işletim sistemlerinde oluşan ses sorunlarını düzeltmeye yarayan bir araçtır.
 ## Kullanım
 ### Zip olarak:
